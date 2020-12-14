@@ -29,6 +29,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 .content{
 	flex: 1 1 auto;
 	background: url('..//img/фон.png') no-repeat top right;
+	background-size: 60% 120%;
 }
 .home__conteiner {
 	max-width: 1170px;
