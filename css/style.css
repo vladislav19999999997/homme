@@ -16,7 +16,8 @@ img{vertical-align:top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 /*--------------------*/
 .wrapper{
-    
+    	position: fixed;
+	width: 100%;
 	min-height: 100%;
 	overflow: hidden;
     max-height: 669px;
@@ -316,5 +317,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     display: flex;
     justify-content: space-between;
     margin-top: 15px;
+}
+.podloj {
+    height: 1500px;
 }
 
